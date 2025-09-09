@@ -43,7 +43,6 @@ public class Main {
         System.out.println("How many perfect numbers do you want?");
         Scanner scanner = new Scanner(System.in);
         return scanner.nextInt();
-
     }
 
 }
